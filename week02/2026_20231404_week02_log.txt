@@ -1,0 +1,8 @@
+Script started on 2026-03-13 10:23:53+09:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;kbomi@BOMINotebook: ~/linux/week02[01;32mkbomi@BOMINotebook[00m:[01;34m~/linux/week02[00m$ exit
+[?2004lexit
+
+Script done on 2026-03-13 10:25:57+09:00 [COMMAND_EXIT_CODE="0"]
